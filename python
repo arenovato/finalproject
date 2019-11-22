@@ -1,0 +1,1 @@
+python target_permute_NETPHLIX.py data/Drug/AlterationsV2_clean.txt.gz data/Drug/Target1.txt positive 3 0.25 0.01 0.5 z data/HumanStringNet.txt  10  results/Drug/perm_target1.txt
